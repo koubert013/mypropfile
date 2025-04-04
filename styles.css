@@ -1,0 +1,36 @@
+    <style>
+        body {
+            background-color: #EDEEF7;
+            font-family: 'Arial', sans-serif;
+        }
+        .profile-container {
+            max-width: 600px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 50px auto;
+            text-align: center;
+        }
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 15px;
+        }
+        .info-table {
+            width: 100%;
+        }
+        .info-table td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .section-title {
+            font-weight: bold;
+            background: #333;
+            color: white;
+            padding: 8px;
+            border-radius: 5px;
+        }
+    </style>
